@@ -254,6 +254,7 @@
     <rule name="Use PVM" optional="true">
       <link url="https://github.com/kaiinkinen/pvm">Play Version Manager</link>
     </rule>
+    <rule name="Deploy stage locally and check (e.g.minimized js) is correct" optional="true"></rule>
   </category>
 
 </checklist>
